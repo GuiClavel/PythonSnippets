@@ -2,9 +2,10 @@
 bash commands for deploying through GitHub CLI:
 ---------------------------------------------------
 
-git init           #if necessary
 
 git auth login        #choose https / token access
+
+git init           #necessary only for creating a new Git repo (so, the first time)
 
 git add 'file name'
 
