@@ -2,6 +2,8 @@
 bash commands for deploying through GitHub CLI:
 ---------------------------------------------------
 
+git init           #if necessary
+
 git auth login        #choose https / token access
 
 git add 'file name'
