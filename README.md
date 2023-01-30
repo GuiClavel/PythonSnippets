@@ -1,3 +1,7 @@
+install GitHib CLI:  https://github.com/cli/cli#installation
+
+install Git dependency:  https://git-scm.com/download/win
+
 
 bash commands for deploying through GitHub CLI:
 ---------------------------------------------------
